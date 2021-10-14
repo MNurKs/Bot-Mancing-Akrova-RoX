@@ -11,3 +11,5 @@ keyboard
 
 === Known Issues ===
 > Ga Work Kalo Pake Nox Player
+
+Dari Akrova(V.O.C) Ingael
